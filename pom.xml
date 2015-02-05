@@ -80,7 +80,7 @@
         <connection>scm:git:git@github.com:fernando-carril/testRepo.git</connection>
         <url>scm:git:git@github.com:fernando-carril/testRepo.git</url>
         <developerConnection>scm:git:git@github.com:fernando-carril/testRepo.git</developerConnection>
-      <tag>my-app-0.0.1</tag>
+        <tag>my-app-0.0.1</tag>
   </scm>
 
     <dependencies> 
