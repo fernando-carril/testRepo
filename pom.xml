@@ -16,7 +16,7 @@
 
     <groupId>org.sample</groupId>
     <artifactId>my-app</artifactId>
-    <version>0.0.2-SNAPSHOT</version>
+    <version>0.0.2</version>
     <packaging>php</packaging>
 
     <name>PHP 5 web Project</name>
@@ -80,7 +80,7 @@
         <connection>scm:git:git@github.com:fernando-carril/testRepo.git</connection>
         <url>scm:git:git@github.com:fernando-carril/testRepo.git</url>
         <developerConnection>scm:git:git@github.com:fernando-carril/testRepo.git</developerConnection>
-        <tag>my-app-0.0.1</tag>
+        <tag>my-app-0.0.2</tag>
   </scm>
 
     <dependencies> 
