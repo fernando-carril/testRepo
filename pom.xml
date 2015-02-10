@@ -16,7 +16,7 @@
 
     <groupId>org.sample</groupId>
     <artifactId>my-app</artifactId>
-    <version>0.0.8</version>
+    <version>0.0.9-SNAPSHOT</version>
     <packaging>php</packaging>
 
     <name>PHP 5 web Project</name>
